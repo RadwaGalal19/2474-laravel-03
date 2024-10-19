@@ -23,3 +23,7 @@ git config --global user.name "Your Name"
 ## Commit your changes (Save the current progress)
 
 git commit -m "Your Message"
+
+
+## return to the last saved progress
+git checkout main
