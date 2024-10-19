@@ -48,6 +48,10 @@ Route::get('news/live/{post}', function ($post) {
     return $post;
 });
 
+Route::get('hello', function () {
+    return "welcome";
+});
+
 
 // suppliers
 // Route::get('suppliers', 'App\Http\Controllers\SupplierController@index');
