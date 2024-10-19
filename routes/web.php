@@ -73,3 +73,10 @@ Route::prefix('suppliers')
         Route::get('{supplier}', 'show');
     });
 
+Route::get('help', function () {
+    return 'I am here to help you';
+});
+
+Route::get('support', function () {
+    return 'I am here to support you';
+});
