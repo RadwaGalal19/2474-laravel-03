@@ -4,6 +4,9 @@
 
 git init
 
+## rename a branch 
+git branch -M new_name
+
 ## add a file to tracking
 
 git add file-path

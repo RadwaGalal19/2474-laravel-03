@@ -78,5 +78,5 @@ Route::get('help', function () {
 });
 
 Route::get('support', function () {
-    return 'I am here to support you';
+    return 'I am here to give you a support';
 });
