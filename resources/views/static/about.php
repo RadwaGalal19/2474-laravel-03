@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h1>About our company</h1>
+    <h1>About Our Company</h1>
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iste distinctio ratione facere voluptate nesciunt quia
         aspernatur laborum. Facilis quasi optio sequi amet debitis commodi, nesciunt libero id quo assumenda excepturi
         architecto provident, dolor unde, nihil deleniti nam ratione reprehenderit molestiae inventore aperiam? Dicta
